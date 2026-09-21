@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatgpt-skills.github.io/sitemap.xml
