@@ -19,3 +19,5 @@ If you repeat the same multi-step task in the same way every week, and you are o
 ---
 
 *This is an independent page written by someone who uses these products; it is not affiliated with or endorsed by OpenAI or Google, and all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
